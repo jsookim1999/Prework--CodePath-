@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initially, the label size for the tip and the total was too small, not shwoing the entire value. Resizing the label with a larger width solved the issue.
 
 ## License
 
